@@ -12,7 +12,7 @@
 	<artifactId>meu-primeiro-projeto</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MeuPrimeiroProjeto</name>
-	<description>Meu Primeiro Projeto Java com Spring Boot</description>
+	<description>Meu Primeiro Projeto Java com Spring Boot 2.x</description>
 
 	<properties>
 		<java.version>1.8</java.version>
